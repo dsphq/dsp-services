@@ -1,0 +1,32 @@
+[
+    {
+        "name": "IPFS",
+        "description": "vRAM using IPFS",
+        "account": "ipfsservice1"
+    },
+    {
+        "name": "Oracle",
+        "account": "oracleservic",
+        "description": "Oracle Services"
+    },
+    {
+        "name": "Cron",
+        "account": "cronservices",
+        "description": "Run Async Cron Jobs"
+    },
+    {
+        "name": "Staking",
+        "account": "stakeservice",
+        "description": "Stake to DSP"
+    },
+    {
+        "name": "vAccounts",
+        "account": "accountless1",
+        "description": "Virtual Accounts"
+    },
+    {
+        "name": "Log",
+        "account": "logservices1",
+        "description": "Log action output"
+    }
+]
